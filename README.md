@@ -10,11 +10,11 @@ I build and maintain modern web platforms, documentation systems, and UI front-e
 
 **Backend & API Development**
 - Python · Django · Django REST Framework
-- PHP · Laravel (full project and MVC experience)
+- PHP · Laravel (MVC experience)
 
 **Documentation & Static Site Engineering**
 - Hugo framework (theme adaptation, layout customization, versioned docs)
-- Member of the ZOO-Project Project :https://zoo-project.org migration to Hugo
+- Member of the ZOO-Project :https://zoo-project.org migration to Hugo
 
 **DevOps & Deployment**
 - Docker (local environments, image packaging, deployments)
