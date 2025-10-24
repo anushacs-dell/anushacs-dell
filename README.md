@@ -1,9 +1,5 @@
 # Full-Stack Developer| ZOO-Project & MapMint | Site Migrations | Open Source Developer
 
-## I am Anusha C. S
-
-**Full-Stack & Geo-Web Developer**
-
 I build and maintain modern web platforms, documentation systems, and UI front-ends, with a strong focus on usability, clean workflows, and reproducible deployment environments. My work spans migrations, and front-end user interface engineering for geospatial and open-source projects.
 
 ## Core Competencies
